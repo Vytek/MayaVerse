@@ -3,6 +3,12 @@ MayaVerse is an experimental Metaverse - Immersive Virtual World
 
 [PLEASE SEE Wiki for more info!](https://bitbucket.org/enrico_speranza/mayaverse/wiki/Home)
 
+## Licenses
+
+ - **Only the code in `Assets/Scripts` is released under the MIT license**
+ - Other code libraries in `Assets/Libraries` all come with their own licenses
+ - Any binary resources are more or less there on a "fair use" basis, **don't assume that you can just copy and use them**
+
 ## Useful links:
 Configuration git:
 [Link to file .gitignore](https://gist.github.com/Shogan/dad6786c58c5ad88e0ec)
