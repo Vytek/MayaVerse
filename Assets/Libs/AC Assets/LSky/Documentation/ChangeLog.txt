@@ -1,0 +1,78 @@
+
+
+=======================================- ChangeLog -=======================================
+___________________________________________________________________________________________
+
+--------
+v 2.0.3d
+========
+
+* Fixed LSkyFloatDrawer.
+* Fixed LSkyFloatRangeDrawer.
+* Fixed LSkyColorDrawer.
+* Add system time (LSkyTOD).
+* Changed longitud name to equatorPos.
+* Changed moon latitud name to Moon X rot.
+* Changed moon longitud name to Moon Y rot.
+
+=======================================-    Old    -=======================================
+
+
+--------
+v 2.0.3c
+========
+
+* Fixed Curve Editor problems for  Unity v2017
+
+--------
+v 2.0.3b
+========
+
+* Fixed unassingned sun and moon Transform component when called from another script. (LSky)
+* Fixed UTC. (LSkyTOD)
+* Fixed Moon Longitude.(LSkyTOD)
+* Added Opposite sun direction (LSkyTOD).
+
+--------
+v 2.0.3a
+========
+
+* Fixed unassigned sun and moon Transform components.
+* Improved outer space cubemap.
+* Add nebula exponent.
+
+
+--------
+v 2.0.3
+========
+
+* Added realistic moon texture.
+* Added Skybox Reflection shader.
+* Added Skybox Atmosphere shader.
+* Added ground and horizon parameters in skybox.
+* Added Display time.
+
+
+--------
+v 2.0.1
+========
+
+* Changed name to LSky.
+* Rewrited all code, now is new.
+
+* Improved Curve and Gradient System.
+
+* Improved Atmospheric Scattering.
+* Improved Outer Space.
+* Improved Time Of Day.
+* Time of Day has been separated from the sky controller.
+
+* Added LSkyColor structure.
+* Added LSkyFloat structure.
+* Added Color correction.
+* Added new moon texture.
+* Added new Outer Space Cubemap.
+* Added Reflection Probe refresh.
+
+* Removed DisplayTimeScript(Temporarily).
+

@@ -1,0 +1,11 @@
+22.04 martedì 5 settembre 2017
+
+- Inizio integrazione con mio sistema di Networking
+- Primi esperimenti
+- Aggiornato ProBuild all'ultima versione disponibile
+
+- Individuato problema local e global trasform da gestire !
+
+23 Settembre 2017
+
+- Alcune problematiche di branch da risolvere
