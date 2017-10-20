@@ -39,6 +39,11 @@ The tests were carried out on the following HW VR:
 
 [PLEASE SEE Wiki for more info!](https://bitbucket.org/enrico_speranza/mayaverse/wiki/Home)
 
+Video:
+
+- https://www.youtube.com/watch?v=k8pXD1YoS0E
+- https://www.youtube.com/watch?v=1luKUOVQnZc
+
 ## Licenses
 
  - **Only the code in `Assets/Scripts` is released under the MIT license**
