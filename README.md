@@ -1,3 +1,7 @@
+# NEW VERSION:
+
+https://github.com/Vytek/MayaVerse03
+
 # MayaVerse
 MayaVerse is an experimental Metaverse - Immersive Virtual World
 
